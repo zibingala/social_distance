@@ -36,10 +36,13 @@ let projectile_life = 5 * 1000;
 
 function setup() {
     
+    
+    
 createCanvas(windowWidth, windowHeight);
     //define textsize for whole app based on canvas size
     textSIZE=min(displayWidth/20,displayHeight/20);
     
+    frameRate(30);
 
     background(0,100,10);
     
