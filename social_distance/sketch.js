@@ -83,7 +83,9 @@ switch(mode){
                 fill(random(255),random(255),random(255),50);
         text('SEND HOME W/ CLICK + MOVE w/ WASD', width/2 , height/2 + 3*textSIZE);
                 fill(random(255),random(255),random(255),50);
-        text('NOW STRT WITH CLICK', width/2 , height/2 + 5*textSIZE);
+        text('NOW START WITH CLICK', width/2 , height/2 + 5*textSIZE);
+                               fill(random(255),random(255),random(255),50);
+        text('use CHROME or BRAVE to HAVE FUN!', width/2 , height/2 + 7*textSIZE);
         
         
         break;
