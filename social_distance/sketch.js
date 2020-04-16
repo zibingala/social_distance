@@ -85,7 +85,7 @@ switch(mode){
                 fill(random(255),random(255),random(255),50);
         text('NOW START WITH CLICK', width/2 , height/2 + 5*textSIZE);
                         fill(random(255),random(255),random(255),50);
-        text('use CHROME or BRAVE to HAVE FUN!', width/2 , height/2 + 7*textSIZE);
+        text('use CHROME or BRAVE to HAVE FUN!', width/2 , height/2 + 6*textSIZE);
         
         
         break;
